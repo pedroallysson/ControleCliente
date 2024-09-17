@@ -1,0 +1,14 @@
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\bin\Debug\net8.0\ControleClientes.exe
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\bin\Debug\net8.0\ControleClientes.deps.json
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\bin\Debug\net8.0\ControleClientes.runtimeconfig.json
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\bin\Debug\net8.0\ControleClientes.dll
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\bin\Debug\net8.0\ControleClientes.pdb
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.AssemblyInfo.cs
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.dll
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\refint\ControleClientes.dll
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.pdb
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ControleClientes.genruntimeconfig.cache
+C:\Users\Pedro\Documents\SENAI\C#\ControleClientes\obj\Debug\net8.0\ref\ControleClientes.dll
